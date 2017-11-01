@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Юлия Родионова](https://up.htmlacademy.ru/htmlcss/19/user/330273).
+* Наставник: [Владислав Балабанович](https://htmlacademy.ru/profile/balabanovich).
 
 ---
 
